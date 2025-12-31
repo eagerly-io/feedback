@@ -8,11 +8,13 @@ We'd love to hear from you! The easiest way to share your thoughts is by creatin
 
 **Note:** You'll need a GitHub account to create an issue. If you don't have one, you can [sign up for free](https://github.com/join).
 
-### Creating an Issue
+### Submitting Feedback
 
-1. Click the **"Issues"** tab at the top of this page
-2. Click the green **"New Issue"** button
-3. Fill out the details and click **"Submit new issue"**
+[Create a new issue](https://github.com/eagerly-io/feedback/issues/new) to share your feedback, bug reports, or feature requests.
+
+### Viewing Existing Feedback
+
+[View all submitted feedback](https://github.com/eagerly-io/feedback/issues) to see what others have shared.
 
 ## Thank You!
 
